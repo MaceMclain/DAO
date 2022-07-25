@@ -1,3 +1,5 @@
+//deployed and updat, so it can only be updated using a govenrnance process 
+
 import { HardhatRuntimeEnvironment } from "hardhat/types"
 import { DeployFunction } from "hardhat-deploy/types"
 import verify from "../helper-functions"

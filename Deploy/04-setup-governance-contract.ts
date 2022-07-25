@@ -1,3 +1,5 @@
+//setting up the governance process so its decentralized "no owner of timelock" 
+
 import { HardhatRuntimeEnvironment } from "hardhat/types"
 import { DeployFunction } from "hardhat-deploy/types"
 import verify from "../helper-functions"
