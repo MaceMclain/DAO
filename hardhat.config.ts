@@ -11,8 +11,8 @@ import { HardhatUserConfig } from "hardhat/config"
 const COINMARKETCAP_API_KEY = process.env.COINMARKETCAP_API_KEY || ""
 const RINKEBY_RPC_URL =
   process.env.RINKEBY_RPC_URL || "https://eth-rinkeby.alchemyapi.io/v2/your-api-key"
-const PRIVATE_KEY = process.env.PRIVATE_KEY || "privatKey"
-const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || ""
+const PRIVATE_KEY = process.env.PRIVATE_KEY || "0xA89B9663829E7B767766f6e30af393E996063360"
+const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || "63KX331AH9VZPTCE6568I6JRZ3GBKE1MXV"
 
 const config: HardhatUserConfig = {
   defaultNetwork: "hardhat",
