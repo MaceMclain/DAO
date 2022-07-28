@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: MIT
 //has all the voting logic that governancetoken.sol will use
+
 pragma solidity ^0.8.9;
 
 import "@openzeppelin/contracts/governance/Governor.sol";
