@@ -13,5 +13,8 @@
     "ts-node": "^10.9.1",
     "type": "^2.6.0",
     "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
   }
 }
